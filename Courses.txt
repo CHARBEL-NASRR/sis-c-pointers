@@ -1,0 +1,3 @@
+cs001	calculus	4
+cs002	database	4
+cs003	or	3

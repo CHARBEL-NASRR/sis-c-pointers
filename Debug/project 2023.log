@@ -1,0 +1,8 @@
+﻿  project 2023.cpp
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(174,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(619,6): warning C4101: 'grade': unreferenced local variable
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(842,9): warning C4101: 'b': unreferenced local variable
+C:\Users\hicham\source\repos\project 2023\project 2023.cpp(642): warning C4715: 'searchgrade': not all control paths return a value
+  project 2023.vcxproj -> C:\Users\hicham\source\repos\project 2023\Debug\project 2023.exe
